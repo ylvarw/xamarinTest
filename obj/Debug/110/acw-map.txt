@@ -1,3 +1,6 @@
+xamarinTest.SplashActivity, xamarinTest;crc64c3ed8e67c406f559.SplashActivity
+xamarinTest.SplashActivity;crc64c3ed8e67c406f559.SplashActivity
+xamarintest.SplashActivity;crc64c3ed8e67c406f559.SplashActivity
 xamarinTest.MainActivity, xamarinTest;crc64c3ed8e67c406f559.MainActivity
 xamarinTest.MainActivity;crc64c3ed8e67c406f559.MainActivity
 xamarintest.MainActivity;crc64c3ed8e67c406f559.MainActivity
