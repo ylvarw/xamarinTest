@@ -13,5 +13,8 @@ using Google.Android.Material.Snackbar;
 
 namespace xamarinTest
 {
+    CpuTest {
+
+    }
 
 }
